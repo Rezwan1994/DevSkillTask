@@ -1,0 +1,8 @@
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.csprojAssemblyReference.cache
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.csproj.CoreCompileInputs.cache
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.AssemblyInfoInputs.cache
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.AssemblyInfo.cs
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\bin\Debug\net472\Task1.exe
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\bin\Debug\net472\Task1.pdb
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.exe
+D:\DevSkill\asp-net-admission-test-b6-main\asp-net-admission-test-b6-main\AdmissionTestTasks\Task1\obj\Debug\net472\Task1.pdb
